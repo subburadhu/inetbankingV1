@@ -1,0 +1,1 @@
+This is test file.txt created on github remote repository after pushed from git local repository to remote. 08.02.2023
